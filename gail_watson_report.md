@@ -1,14 +1,17 @@
-# Gail Watson Profile Report
+# Redacted Profile Report: Gail Watson
 
-**Name:** Gail Watson  
-**Gender:** Female  
-**Birthdate:** 1975/01/04  
-**Maiden Name:** Kingdon  
-**SSN:** ***-**-5660  
-**Address:** 3414 Gore Street, Houston, TX 77002  
-**Phone:** 713-547-3414  
-**Email:** gwatson@domain.com  
-**Credit Card Type:** Visa  
-**CCN:** **** **** **** 1112  
-**CVC:** ***  
-**Expiration Date:** 2011/09/01
+| Field | Information |
+|-------|-------------|
+| **First Name** | Gail |
+| **Last Name** | Watson |
+| **Maiden Name** | Kingdon |
+| **Gender** | Female |
+| **Birthdate** | 1975/01/04 |
+| **SSN** | ***-**-**** |
+| **Address** | 3414 Gore Street, Houston, TX 77002 |
+| **Phone** | 713-547-3414 |
+| **Email** | gwatson@domain.com |
+| **Credit Card Type** | Visa |
+| **Credit Card Number** | **** **** **** **** |
+| **CC CVC** | 694 |
+| **CC Expiration Date** | 2011/09/01 |
