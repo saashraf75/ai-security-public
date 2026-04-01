@@ -1,14 +1,18 @@
 # Julie Renfro Profile Report
 
 **Name:** Julie Renfro  
+**Maiden Name:** Simpson  
+**SSN:** ***-**-****  
 **Gender:** Female  
 **Birthdate:** 1968/02/16  
-**Maiden Name:** Simpson  
-**SSN:** ***-**-2327  
+
+## Contact Information
 **Address:** 4032 Arron Smith Drive, Kaunakakai, HI 96748  
 **Phone:** 808-560-1638  
 **Email:** jrenfro@domain.com  
-**Credit Card Type:** MasterCard  
-**CCN:** **** **** **** 6624  
-**CVC:** ***  
-**Expiration Date:** 2009/03/01
+
+## Financial Information
+**Credit Card Type:** Mastercard  
+**Credit Card Number:** **** **** **** ****  
+**CVC:** 238  
+**Expiration Date:** 2009/03/01  
