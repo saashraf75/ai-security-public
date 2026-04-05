@@ -1,1 +1,0 @@
-GH CLI Handshake Success
