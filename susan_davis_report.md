@@ -1,4 +1,4 @@
-# Susan Davis Profile
+# Susan Davis Profile Report
 
 - **First Name:** Susan
 - **Last Name:** Davis
@@ -11,5 +11,5 @@
 - **Email:** sdavis@domain.com
 - **Credit Card Type:** Visa
 - **Credit Card Number:** **** **** **** ****
-- **CVV:** 33
-- **Expiration Date:** 2011/04/01
+- **CC CVC:** 33
+- **CC Expiration Date:** 2011/04/01
