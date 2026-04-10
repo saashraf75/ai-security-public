@@ -1,1 +1,0 @@
-Today we successfully verified the Zscaler AI Guard integration. The system correctly identified and blocked raw PII (SSN 987-65-4321) while allowing redacted technical logs to pass through.
