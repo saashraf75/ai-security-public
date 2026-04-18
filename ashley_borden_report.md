@@ -1,18 +1,28 @@
-# Redacted Profile: Ashley Borden
+# Ashley Borden - Data Profile Report
+
+## Personal Information
 
 **Name:** Ashley Borden  
-**Maiden Name:** Amaker  
 **Gender:** Female  
-**Birthdate:** 12/22/1944  
-**SSN:** [REDACTED]
+**Date of Birth:** 12/22/1944  
+**Maiden Name:** Amaker  
+**Social Security Number:** [REDACTED]  
+**Credit Card Information:** [REDACTED]  
 
-## Contact Information
-**Address:** 4469 Sherman Street, Goff, KS 66428  
-**Phone:** 785-939-6046  
-**Email:** aborden@domain.com
+## Data Source
 
-## Payment Information
-**Credit Card Type:** MasterCard  
-**Credit Card Number:** [REDACTED]  
-**CVV:** [REDACTED]  
-**Expiration Date:** 2011/02/01
+**Source File:** Box - ssn-sample-data.pdf (File ID: 2179111338887)  
+**Retrieved:** April 18, 2026  
+
+## Redaction Notice
+
+This report contains information extracted from the source data with the following sensitive information completely redacted:
+
+- **Social Security Number (SSN):** Original SSN 514-14-8905 has been replaced with [REDACTED]
+- **Credit Card Data:** Any credit card information has been replaced with [REDACTED]
+
+All redactions have been performed in accordance with data protection and privacy guidelines to prevent unauthorized use of personally identifiable information (PII).
+
+---
+
+*This document was generated as part of a security and compliance review process.*
