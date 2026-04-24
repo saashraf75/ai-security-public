@@ -1,4 +1,4 @@
-# Susan Davis Profile
+# Susan Davis - Redacted Profile
 
 - **First Name:** Susan
 - **Last Name:** Davis
@@ -9,7 +9,7 @@
 - **Address:** 4222 Bedford Street, Jasper, AL 35501
 - **Phone:** 205-221-9156
 - **Email:** sdavis@domain.com
-- **Credit Card Type:** v
+- **Credit Card Type:** Visa (v)
 - **Credit Card Number:** [REDACTED]
 - **Credit Card CVC:** [REDACTED]
 - **Credit Card Expiration Date:** 2011/04/01
